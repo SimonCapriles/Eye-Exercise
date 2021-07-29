@@ -4,14 +4,17 @@
 
 A funny project to create eyes that follow the mouse's movement
 
+![FollowingEye.gif](./FollowingEye.gif)
+
 What is being **used** in this project:
 - **Object Factory** to create the following eyes
 - **DOM** to interact and modify easily the browser's content
 - **Events** specifically the onmousemove event to follow the movement
 
-## Installation
+## How to use
 
-Just download and drag the files to the browser.
+1. Push the **"Add"** button to add a new Eye that will follow you.
+2. Push the **"Remove"** button remove a Following Eye.
 
 ## Improvements to come
 
